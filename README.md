@@ -1,15 +1,15 @@
-# 🚀 I've Moved to Codeberg!
+# 🚀 I'm Moving to Codeberg!
 
-Hey there! I'm migrating my open-source work to Codeberg to support a community-driven, non-profit platform.
+Hey there! I'm gradually migrating my open-source work to Codeberg to support a community-driven, non-profit platform.
 
-## 🔗 Find Me Here:
-- **New Home**: [codeberg.org/justaguylinux](https://codeberg.org/justaguylinux)
-- **Active Development**: All new commits happen on Codeberg
-- **This GitHub**: Will remain as a mirror/archive
+## 🔗 Find Me On Both Platforms:
+- **Codeberg**: [codeberg.org/justaguylinux](https://codeberg.org/justaguylinux)
+- **GitHub**: Still active here during the transition
+- **Migration Status**: In progress - moving repos safely over time
 
 ## 📺 YouTube Viewers:
-If you came from my YouTube videos, the code is now at Codeberg!
-Don't worry - the same projects, same code, just a new home.
+Most code is still here on GitHub! I'm gradually moving to Codeberg.
+Check both places for now - links in video descriptions will be updated as repos move.
 
 ## Why the Move?
 - Support truly open-source infrastructure
@@ -17,7 +17,8 @@ Don't worry - the same projects, same code, just a new home.
 - European privacy standards
 - No corporate interests
 
-## Quick Links to Popular Repos:
-- [butterscripts](https://codeberg.org/justaguylinux/butterscripts)
+## Recently Migrated:
+- [butterscripts](https://codeberg.org/justaguylinux/butterscripts) - Now on Codeberg!
 
-Still need GitHub? The mirrors will stay updated!
+## Still on GitHub:
+Most repositories remain here while I carefully migrate them.
