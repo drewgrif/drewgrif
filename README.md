@@ -25,6 +25,7 @@ Check both places for now - links in video descriptions will be updated as repos
 - [dwm-setup](https://codeberg.org/justaguylinux/dwm-setup) (GitHub stars: 34, forks: 7)
 - [openbox-setup](https://codeberg.org/justaguylinux/openbox-setup) (GitHub stars: 28, forks: 10)
 - [nvim](https://codeberg.org/justaguylinux/nvim) (GitHub stars: 16, forks: 6)
+- [sway-setup](https://codeberg.org/justaguylinux/sway-setup) (GitHub stars: 42, forks: 19)
 
 ## Still on GitHub:
 A few legacy repos hang out here as mirrors until their tooling and docs catch up.
