@@ -18,11 +18,13 @@ Check both places for now - links in video descriptions will be updated as repos
 - No corporate interests
 
 ## Recently Migrated:
+- [awesomewm-setup](https://codeberg.org/justaguylinux/awesomewm-setup)
 - [bspwm-setup](https://codeberg.org/justaguylinux/bspwm-setup) (GitHub stars: 16, forks: 4)
 - [butterbash](https://codeberg.org/justaguylinux/butterbash) (GitHub stars: 8, forks: 1)
 - [butternotes](https://codeberg.org/justaguylinux/butternotes) (GitHub stars: 1, forks: 1)
 - [butterscripts](https://codeberg.org/justaguylinux/butterscripts) (GitHub stars: 18, forks: 3)
 - [dwm-setup](https://codeberg.org/justaguylinux/dwm-setup) (GitHub stars: 34, forks: 7)
+- [i3-setup](https://codeberg.org/justaguylinux/i3-setup)
 - [openbox-setup](https://codeberg.org/justaguylinux/openbox-setup) (GitHub stars: 28, forks: 10)
 - [nvim](https://codeberg.org/justaguylinux/nvim) (GitHub stars: 16, forks: 6)
 - [sway-setup](https://codeberg.org/justaguylinux/sway-setup) (GitHub stars: 42, forks: 19)
