@@ -1,34 +1,35 @@
-# 🚀 I'm Moving to Codeberg!
+# 🚀 I've Moved to Codeberg!
 
-Hey there! I'm gradually migrating my open-source work to Codeberg to support a community-driven, non-profit platform.
+My active development has migrated to **[Codeberg](https://codeberg.org/justaguylinux)** to support community-driven, non-profit open source infrastructure.
 
-## 🔗 Find Me On Both Platforms:
-- **Codeberg**: [codeberg.org/justaguylinux](https://codeberg.org/justaguylinux)
-- **GitHub**: Legacy mirror while the last few projects finish migrating
-- **Migration Status**: Most active repos now live on Codeberg, with mirrors here for convenience
+## 🔗 Where to Find My Projects
 
-## 📺 YouTube Viewers:
-Most code is still here on GitHub! I'm gradually moving to Codeberg.
-Check both places for now - links in video descriptions will be updated as repos move.
+**Primary:** [codeberg.org/justaguylinux](https://codeberg.org/justaguylinux) — All active development happens here
 
-## Why the Move?
-- Support truly open-source infrastructure
+**Legacy:** This GitHub account remains as an archived mirror for existing clones and forks
+
+## 📺 For YouTube Viewers
+
+If you're here from a video:
+- **Newer videos** → Links point to Codeberg
+- **Older videos** → Check the pinned comment and description for updated Codeberg links
+- All repos have been migrated and updated install scripts will redirect you
+
+## ⚡ Why Codeberg?
+
+- Truly open-source infrastructure (Forgejo/Gitea)
 - Non-profit, community-driven platform
-- European privacy standards
-- No corporate interests
+- Strong European privacy standards
+- No corporate tracking or interests
 
-## Recently Migrated:
-- [awesomewm-setup](https://codeberg.org/justaguylinux/awesomewm-setup) (GitHub stars: 6, forks: 3)
-- [bspwm-setup](https://codeberg.org/justaguylinux/bspwm-setup) (GitHub stars: 16, forks: 4)
-- [butterbash](https://codeberg.org/justaguylinux/butterbash) (GitHub stars: 8, forks: 1)
-- [butternotes](https://codeberg.org/justaguylinux/butternotes) (GitHub stars: 1, forks: 1)
-- [butterscripts](https://codeberg.org/justaguylinux/butterscripts) (GitHub stars: 18, forks: 3)
-- [dwm-setup](https://codeberg.org/justaguylinux/dwm-setup) (GitHub stars: 34, forks: 7)
-- [i3-setup](https://codeberg.org/justaguylinux/i3-setup) (GitHub stars: 15, forks: 3)
-- [openbox-setup](https://codeberg.org/justaguylinux/openbox-setup) (GitHub stars: 28, forks: 10)
-- [nvim](https://codeberg.org/justaguylinux/nvim) (GitHub stars: 16, forks: 6)
-- [qtile-setup](https://codeberg.org/justaguylinux/qtile-setup) (GitHub stars: 5, forks: 0)
-- [sway-setup](https://codeberg.org/justaguylinux/sway-setup) (GitHub stars: 42, forks: 19)
+## 📦 Migrated Projects
 
-## Still on GitHub:
-A few legacy repos hang out here as mirrors until their tooling and docs catch up.
+All window manager setups and scripts have moved:
+- awesomewm-setup, bspwm-setup, dwm-setup (⭐34)
+- i3-setup, openbox-setup (⭐28), qtile-setup, sway-setup (⭐42)
+- butterbash, butternotes, butterscripts
+- nvim configuration
+
+**Coming Soon:** A few more window manager setups migrating shortly
+
+**→ [Visit Codeberg for latest versions](https://codeberg.org/justaguylinux)**
